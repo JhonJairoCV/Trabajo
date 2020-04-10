@@ -1,0 +1,18 @@
+nav .brand-logo.center {
+    width: 100%;
+}
+
+.contenedor-video {
+	padding-bottom:56.25%;
+    height: 0;
+	overflow: hidden;
+	position: relative;
+}
+
+iframe{
+	position: absolute;
+	height: 100%;
+    width: 100%;
+    top: 0;
+    left: 0;
+}
